@@ -10,7 +10,7 @@ Do uruchomienia programu wymagany jest Python w wersji 3.6 lub nowszej.
 
 ```bash
 git clone https://github.com/ProXi-22/IOT_data_analysis.git
-cd sensor-data-application
+cd IOT_data_analysis
 ```
 
 ### Zainstaluj wymagane biblioteki
