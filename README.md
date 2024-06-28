@@ -25,4 +25,4 @@ python main.py
 ```
 
 ### Licencja
-Projekt jest licencjonowany na warunkach licencji MIT. Sprawdź plik LICENSE.txt po więcej informacji.
+Projekt jest licencjonowany na warunkach licencji MIT. Sprawdź plik LICENSE po więcej informacji.
